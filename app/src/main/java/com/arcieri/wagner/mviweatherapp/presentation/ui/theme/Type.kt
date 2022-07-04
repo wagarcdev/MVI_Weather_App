@@ -1,4 +1,4 @@
-package com.arcieri.wagner.mviweatherapp.ui.theme
+package com.arcieri.wagner.mviweatherapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
